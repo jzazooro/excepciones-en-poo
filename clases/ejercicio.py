@@ -13,6 +13,6 @@ while ejecutar==True:
         else: 
             print("La direccion de correo electronico introducida no existe o no es valida")
     else:
-        print("L o sentimos, usted ha sobrepasado el numero de intentos permitidos, intentelo mas tarde")
+        print("Lo sentimos, usted ha sobrepasado el numero de intentos permitidos, intentelo mas tarde")
     ejecutar=False
     i=i+1
