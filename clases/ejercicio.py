@@ -6,4 +6,5 @@ i=5 #utilizaremos la i para definir un numero maximo de intentos para introducir
 while ejecutar==True:
     if i<5:
         correo=input(str("introduzca su direccion de correo electronico: "))
+        if re.search(".+@.+..+", correo)!=None:
     
