@@ -6,6 +6,8 @@ Hemos realizado un ejercicio que simula una pagina en la que ya estamos registra
 
 ### Ejercicio de excepciones en POO
 
+El codigo que hemps usado para resolver el ejercicio es el siguiente:
+
 ```
 import re
 
