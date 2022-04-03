@@ -10,4 +10,7 @@ while ejecutar==True:
             lista=re.split("@", correo)
             print("Direccion de correo electronico correcta, bienvenido")
             ejecutar=False
+        else: 
+            print("La direccion de correo electronico introducida no existe")
+    
     
