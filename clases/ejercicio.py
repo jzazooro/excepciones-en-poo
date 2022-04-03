@@ -7,4 +7,7 @@ while ejecutar==True:
     if i<5:
         correo=input(str("introduzca su direccion de correo electronico: "))
         if re.search(".+@.+..+", correo)!=None:
+            lista=re.split("@", correo)
+            print("Direccion de correo electronico correcta, bienvenido")
+            ejecutar=False
     
