@@ -26,4 +26,4 @@ while ejecutar==True:
     ejecutar=False
     i=i+1
 ```
-
+ ### Nota: al no haber resuelto el ejercicio haciendo uso de clases, el codigo del main es el mismo que el del ejercicio.
